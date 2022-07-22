@@ -7,7 +7,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router basename="/photography_portfolio">
+    <Router basename="/photography-portfolio">
       <Routes>
         <Route path="/" element={<Pageone />} />
         <Route path="book-two" element={<Pagetwo />} />
