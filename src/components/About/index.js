@@ -38,7 +38,10 @@ const About = () => {
           </CenterMobile>
         </InnerTextWrap>
         <BtnContainer>
-          <Button href="https://github.com/cchenze" target="_blank">
+          <Button
+            href="https://github.com/cchenze/photography_portfolio"
+            target="_blank"
+          >
             View source code for GRAYOUT
           </Button>
           <Button href="https://www.instagram.com/cchenze/" target="_blank">
