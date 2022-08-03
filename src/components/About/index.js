@@ -44,9 +44,17 @@ const About = () => {
           >
             View source code for GRAYOUT
           </Button>
-          <Button href="https://www.instagram.com/cchenze/" target="_blank">
-            Instagram
-          </Button>
+          <div>
+            <p
+              style={{
+                fontSize: "1rem",
+                paddingTop: "0.4rem",
+                color: "#808080",
+              }}
+            >
+              &copy; 2022 GRAYOUT. All rights reserved.
+            </p>
+          </div>
         </BtnContainer>
       </TextWrap>
     </Container>
