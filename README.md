@@ -4,9 +4,6 @@ A personal photography portfolio website
 ## Website Link
 https://grayout.netlify.app/
 
-## Website About Page
-![About Page](grayout.jpg)
-
 ## How to Install and Run the Project
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
