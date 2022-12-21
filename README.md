@@ -11,6 +11,11 @@ https://grayout.netlify.app/
 
 ![](grayout.jpg)
 
+## Built with
+
+- JavaScript 
+- React
+
 ## Installation
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
