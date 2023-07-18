@@ -18,22 +18,16 @@ const About = () => {
       </ImgWarp>
       <TextWrap>
         <InnerTextWrap>
-          <p>Hi! I'm Chen, a programmer and photographer.</p>
-          <br></br>
           <p>
-            I am a junior studying <strong>Applied Data Analytics</strong> and{" "}
-            <strong>Computer Science</strong> at Syracuse University.
-          </p>
-          <br></br>
-          <p>
-            I designed and developed this photography portfolio website{" "}
-            <strong>GRAYOUT</strong> to showcase my creative work. You can{" "}
-            <strong>click </strong> (for mobile devices) or{" "}
-            <strong>hover </strong> on each photo to view its light and color.
+            Hello there, and welcome to Chen's photography portfolio GRAYOUT!
+            Click or hover over the images to reveal their vibrant colors and
+            the emotions within each frame. Join me on this immersive journey to
+            explore the stories behind captivating photographs. Thank you for
+            visiting, and enjoy the interactive experience!
           </p>
           <CenterMobile>
             <p>
-              <strong>contact email: cchen11@syr.edu</strong>
+              <strong>chenny.chenze@gmail.com</strong>
             </p>
           </CenterMobile>
         </InnerTextWrap>
@@ -52,7 +46,7 @@ const About = () => {
                 color: "#808080",
               }}
             >
-              &copy; 2022 GRAYOUT. All rights reserved.
+              &copy; 2023 GRAYOUT. All rights reserved.
             </p>
           </div>
         </BtnContainer>
