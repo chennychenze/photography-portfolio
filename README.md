@@ -1,36 +1,5 @@
-# GRAYOUT
-
-## Description
-
-I created this personal photography portfolio website during the Summer of 2022 to showcase my favorite portraits I have done for potential clients in the future. I like the minimalist design with monochromatic colors on my website. 
-
-## Live Demo
-
-https://grayout.netlify.app/
-
-
-![](grayout.jpg)
-
-## Built with
-
-- JavaScript 
-- React
-
-## Installation
-
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/cchenze/photography_portfolio.git
-
-# Go into the repository
-$ cd photography_portfolio
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
+**GRAYOUT** is an engaging personal photography portfolio website, where all images are beautifully presented in grayscale and dynamically reveal their colors upon user interaction, providing a captivating and interactive browsing experience.
+- Developed using React and JavaScript for building a dynamic and responsive user interface.
+- Employed styled-components for efficient and organized styling.
+- Integrated React Carousel to implement an interactive and smooth image slideshow for the photobook pages.
+- Implemented media queries to ensure the website's responsiveness across various screen sizes and devices, delivering an optimal user experience.
