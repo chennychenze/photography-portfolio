@@ -7,7 +7,6 @@ import {
   InnerTextWrap,
   CenterMobile,
   BtnContainer,
-  Button,
 } from "./AboutElements";
 
 const About = () => {
@@ -32,17 +31,11 @@ const About = () => {
           </CenterMobile>
         </InnerTextWrap>
         <BtnContainer>
-          <Button
-            href="https://github.com/cchenze/photography_portfolio"
-            target="_blank"
-          >
-            View source code for GRAYOUT
-          </Button>
           <div>
             <p
               style={{
                 fontSize: "1rem",
-                paddingTop: "0.4rem",
+                paddingTop: "1rem",
                 color: "#808080",
               }}
             >

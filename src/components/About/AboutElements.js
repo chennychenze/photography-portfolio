@@ -77,23 +77,23 @@ export const BtnContainer = styled.div`
   margin: 10px;
 `;
 
-export const Button = styled.a`
-  text-decoration: none;
-  color: black;
-  font-size: 1.2rem;
-  &:hover {
-    cursor: pointer;
-    opacity: 100%;
-    font-weight: bold;
-    transition: 0.3s;
-  }
-  @media screen and (min-width: 800px) {
-    font-size: 1.3rem;
-  }
-  @media screen and (min-width: 1200px) {
-    font-size: 1.4rem;
-  }
-  @media screen and (min-width: 1600px) {
-    font-size: 1.5rem;
-  }
-`;
+// export const Button = styled.a`
+//   text-decoration: none;
+//   color: black;
+//   font-size: 1.2rem;
+//   &:hover {
+//     cursor: pointer;
+//     opacity: 100%;
+//     font-weight: bold;
+//     transition: 0.3s;
+//   }
+//   @media screen and (min-width: 800px) {
+//     font-size: 1.3rem;
+//   }
+//   @media screen and (min-width: 1200px) {
+//     font-size: 1.4rem;
+//   }
+//   @media screen and (min-width: 1600px) {
+//     font-size: 1.5rem;
+//   }
+// `;
