@@ -3,15 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@itseasy21/react-elastic-carousel": "^0.12.3",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "glamor": "^2.20.40",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-elastic-carousel": "^0.11.5",
     "react-icons": "^4.4.0",
-    "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.7",
@@ -43,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@types/node-sass": "^4.11.3",
     "sass": "^1.53.0"
   }
